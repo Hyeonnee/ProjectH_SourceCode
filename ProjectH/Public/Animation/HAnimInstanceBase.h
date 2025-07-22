@@ -16,7 +16,7 @@ class PROJECTH_API UHAnimInstanceBase : public UAnimInstance
 	GENERATED_BODY()
 
 public:
-	UHAnimInstanceBase();
+	UHAnimInstanceBase(); //생성자
 
 protected:
 	// 애니메이션에서 사용할 캐릭터 레퍼런스
