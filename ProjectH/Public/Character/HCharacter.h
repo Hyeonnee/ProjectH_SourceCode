@@ -12,7 +12,7 @@ class PROJECTH_API AHCharacter : public ACharacter
 	GENERATED_BODY()
 
 public:
-	AHCharacter();
+	AHCharacter(); // 생성자
 
 protected:
 	virtual void BeginPlay() override;
